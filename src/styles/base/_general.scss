@@ -11,8 +11,11 @@ body {
 
 a {
   color: $link-color;
+  font-weight: $link-font-weight;
+  text-decoration: $link-decoration-default;
 }
 
 a:is(:hover, :focus) {
   color: $link-color-hover;
+  text-decoration: $link-decoration-hover;
 }

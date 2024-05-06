@@ -11,9 +11,9 @@
 .container[data-type="narrow"] {
   --max-width: #{$container-max-width-narrow};
 }
-.container[data-type="wide"] {
-  --max-width: #{$container-max-width-wide};
-}
+// .container[data-type="wide"] {
+//   --max-width: #{$container-max-width-wide};
+// }
 .container[data-type="full-bleed"] {
   --max-width: 100%;
 }
