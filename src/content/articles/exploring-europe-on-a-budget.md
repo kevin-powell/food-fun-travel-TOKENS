@@ -2,12 +2,16 @@
 title: Exploring Europe on a Tight Budget
 subtitle: Tips and Tricks
 author: Liam Lawson
-date: August 5, 2024
+imageSrc: exploring-europe-on-a-budget.jpg
+imageAlt: a European street
+date: 2023-08-05
 tags:
   - Budget Travel
   - Europe
   - Travel Tips
   - Hostels
+featured: false
+
 ---
 
 Europe, with its rich history, vibrant culture, and stunning landscapes, beckons travelers from all corners of the globe. But the continent's reputation can sometimes precede it, conjuring images of expensive flights, pricey hotels, and hefty restaurant bills.

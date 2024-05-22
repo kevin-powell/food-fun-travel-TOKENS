@@ -2,12 +2,15 @@
 title: Hitchhiking Hacks
 subtitle: The Art of Traveling for Free
 author: Liam Lawson
-date: August 19, 2024
+imageSrc: hitchhiking-hacks.jpg
+imageAlt: A man standing at the side of the road sticking out his thumb to try and get a lift
+date: 2023-08-20
 tags:
   - Hitchhiking
   - Budget Travel
   - Travel Tips
   - Adventure Travel
+featured: true
 ---
 
 Hitchhiking. The very word conjures up images of carefree adventurers with backpacks, thumbs outstretched, seeking a ride to their next destination.

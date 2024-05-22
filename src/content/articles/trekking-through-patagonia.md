@@ -2,12 +2,16 @@
 title: Trekking Through Patagonia
 subtitle: Where Glaciers Meet Mountains
 author: Maya Lanstro
-date: May 27, 2024
+imageSrc: trekking-through-patagonia.jpg
+imageAlt: Two people on a walking path with a large mountain in front of them
+date: 2024-03-08
 tags:
   - Hiking
   - Argentina
   - Chile
   - Patagonia
+featured: false
+
 ---
 
 Patagonia, a rugged region at the southern tip of South America, has captivated explorers for centuries.

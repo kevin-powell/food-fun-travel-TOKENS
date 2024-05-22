@@ -2,12 +2,16 @@
 title: Whitewater Rafting the Colorado
 subtitle: An Adrenaline-Fueled Adventure
 author: Maya Lanstro
-date: May 20, 2024
+imageSrc: white-water-rafting-the-colorado.jpg
+imageAlt: A group of people white water rafting
+date: 2024-04-04
 tags:
   - Rafting
   - United States
   - Adventure Travel
   - Nature
+featured: false
+
 ---
 
 The mighty Colorado River, carving its dramatic path through the heart of the American Southwest, has long beckoned thrill-seekers with the promise of an unforgettable adventure.

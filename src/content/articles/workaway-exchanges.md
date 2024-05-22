@@ -2,11 +2,15 @@
 title: Workaway Exchanges
 subtitle: Traveling the World While You Work
 author: Liam Lawson
-date: August 12, 2024
+imageSrc: workaway-exchanges.jpg
+imageAlt: A close up of a map with pins in it
+date: 2023-12-08
 tags:
   - Budget Travel
   - Volunteering
   - Travel Tips
+featured: false
+
 ---
 
 Do you dream of exploring the world but worry about the ever-dwindling travel budget?

@@ -2,12 +2,16 @@
 title: Lost City of the Clouds
 subtitle: Unveiling the Mystery of Machu Picchu
 author: Maya Lanstro
-date: May 13, 2024
+imageSrc: lost-city-of-the-clouds.jpg
+imageAlt: Mountain peaks with light clouds around them
+date: 2024-03-12
 tags:
   - History
   - Peru
   - Machu Picchu
   - South America
+featured: false
+
 ---
 
 Machu Picchu, the Lost City of the Clouds, shrouded in mist and perched atop a mountain peak in the Peruvian Andes, continues to capture imaginations centuries after its construction.

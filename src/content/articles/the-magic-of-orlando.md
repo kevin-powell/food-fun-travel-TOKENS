@@ -2,12 +2,15 @@
 title: The Magic of Orlando
 subtitle: Theme Parks and Beyond with Kids
 author: Claudette Tessier
-date: August 26, 2024
+imageSrc: the-magic-of-orlando.jpg
+imageAlt: The magic castle at Disney Land
+date: 2023-10-10
 tags:
   - Family Travel
   - United States
   - Theme Parks
   - Orlando
+featured: false
 ---
 
 Orlando, Florida, is a city synonymous with theme parks. From the iconic Walt Disney World to the thrilling rides of Universal Orlando, Orlando offers a world of wonder and excitement for families with kids.

@@ -2,12 +2,16 @@
 title: Cruising the Mediterranean
 subtitle: A Journey of History and Indulgence
 author: Manjusha Chaudhari
-date: July 15, 2024
+imageSrc: cruising-the-mediterranean.jpg
+imgAlt: a cruise ship in the mediterranean
+date: 2023-06-15
 tags:
   - Cruise Travel
   - Europe
   - Mediterranean
   - Luxury Travel
+featured: false
+
 ---
 
 The Mediterranean Sea, a cradle of civilization, shimmers with the promise of ancient wonders, sun-drenched shores, and captivating cultures. A Mediterranean cruise offers the perfect blend of exploration and indulgence, allowing you to traverse this historic sea in luxurious comfort while immersing yourself in the rich tapestry of the region.

@@ -2,11 +2,14 @@
 title: Exploring the Spice Route
 subtitle: A Gastronomic Journey Through India
 author: David Traveleree
-date: June 10, 2024
+imageSrc: exploring-the-spice-route.jpg
+imageAlt: Metal bowls filled with brightly colored spices
+date: 2023-06-10
 tags:
   - Food Travel
   - India
   - Asia
+featured: true
 ---
 
 India, a land of vibrant colors, ancient traditions, and captivating history, also boasts a culinary heritage as rich and diverse as its culture.

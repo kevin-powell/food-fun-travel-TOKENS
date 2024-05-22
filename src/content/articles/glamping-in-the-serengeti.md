@@ -2,12 +2,16 @@
 title: Glamping in the Serengeti
 subtitle: Experiencing Luxury in the Wild
 author: Manjusha Chaudhari
-date: July 1, 2024
+imageSrc: glamping-in-the-serengeti.jpg
+imageAlt: three hot air balloons taking flight over the Serengeti during run rise
+date: 2024-05-01
 tags:
   - Glamping
   - Africa
   - Safari
   - Luxury Travel
+featured: false
+
 ---
 
 The thought of a safari conjures images of dusty Land Rovers, basic campsites, and the thrill of encountering Africa's magnificent wildlife. But what if you crave adventure combined with luxurious comfort?

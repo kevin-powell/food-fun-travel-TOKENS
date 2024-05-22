@@ -2,12 +2,16 @@
 title: Hiking the Inca Trail
 subtitle: A Conquest of Breathtaking Beauty
 author: Maya Lanstro
-date: May 6, 2024
+imageSrc: hiking-the-inca-trail.jpg
+imageAlt: Forested mountains during the sun rise
+date: 2024-04-12
 tags:
   - Hiking
   - Peru
   - Adventure Travel
   - South America
+featured: false
+
 ---
 
 The Inca Trail, snaking its way through the majestic Andes Mountains, is more than just a hike; **it's an adventure etched in history**.

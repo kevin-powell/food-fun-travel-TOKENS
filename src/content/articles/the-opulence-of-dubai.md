@@ -2,12 +2,15 @@
 title: The Opulence of Dubai
 subtitle: A City Where Luxury Knows No Bounds
 author: Manjusha Chaudhari
-date: July 22, 2024
+imageSrc: the-opulence-of-dubai.jpg
+imageAlt: Dubai skyline
+date: 2024-01-09
 tags:
   - Luxury Travel
   - Dubai
   - United Arab Emirates
   - City Break
+featured: true
 ---
 
 Dubai, the dazzling city in the United Arab Emirates, is a playground for the rich and famous.

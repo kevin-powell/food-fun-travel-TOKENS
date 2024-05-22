@@ -2,12 +2,15 @@
 title: Road Trip Essentials
 subtitle: Making Memories with the Family
 author: Claudette Tessier
-date: September 9, 2024
+imageSrc: road-trip-essentials.jpg
+imageAlt: A van driving down a road, toward a mountain range
+date: 2024-02-10
 tags:
   - Family Travel
   - Road Trip
   - Travel Tips
   - Packing List
+featured: true
 ---
 
 Hitting the open road with your family can be an adventure filled with laughter, singalongs, and unforgettable memories.
