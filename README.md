@@ -1,5 +1,3 @@
-# Astro + Sass Starter Template: NO scoped styles
+# Food Fun Travel - tokens finished
 
-This is the starter template for the final module of [Beyond CSS](https://beyondcss.dev).
-
-This version is set up to use Astro, but where you prefer keeping all styling in `.scss` files.
+This is the early stages of final project from [Beyond CSS](https://beyondcss.dev), where the tokens have been set up.
